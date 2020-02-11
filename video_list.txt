@@ -1,0 +1,5 @@
+file /Users/wangyujue/Documents/PycharmProjects/VideoProcessing/屏幕录制2020-02-0709.44.00.mov
+file /Users/wangyujue/Documents/PycharmProjects/VideoProcessing/屏幕录制2020-02-0710.05.55.mov
+file /Users/wangyujue/Documents/PycharmProjects/VideoProcessing/屏幕录制2020-02-0710.20.29.mov
+file /Users/wangyujue/Documents/PycharmProjects/VideoProcessing/output.mov
+file /Users/wangyujue/Documents/PycharmProjects/VideoProcessing/屏幕录制2020-02-0710.35.13.mov
