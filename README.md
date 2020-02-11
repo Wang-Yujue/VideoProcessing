@@ -1,2 +1,2 @@
 # VideoProcessing
-Video download from bilibili.com, codec/format convert, videos merging
+Download videos from bilibili.com, codec / format conversion, video merge
